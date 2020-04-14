@@ -98,3 +98,5 @@ cd /home/MyCloud/seafile-server/upgrade/
 
 
 ####本人纯属小白新人，写这个主要是给自己做个记录，有写的不好的，请大神指教！！
+
+## 最后，感谢helloxz大神制作一脚脚本，为我们小白谋福利
