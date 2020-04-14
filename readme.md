@@ -79,7 +79,7 @@ mv seafile-server_7.0.5 seafile-server
 ```bash
 chmod -R 755 /home/MyCloud/seafile-server/
 ```
-5、更新版本，将6.2更新到6.3
+6、更新版本，将6.2更新到6.3
 ```bash
 cd /home/MyCloud/seafile-server/upgrade/
 ./upgrade_6.2_6.3.sh
