@@ -28,7 +28,7 @@ function install_sea() {
 	tar -zxvf seafile-server_6.2.3_x86-64.tar.gz
 	mkdir installed
 	mv seafile-server*.tar.gz ./installed
-	mv seafile-server-7* seafile-server
+	mv seafile-server-6* seafile-server
 	#安装依赖环境
 	yum -y install python-setuptools python-imaging python-ldap MySQL-python python-memcached python-urllib3
 	#进行安装
