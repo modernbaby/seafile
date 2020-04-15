@@ -85,7 +85,7 @@ cd /home/MyCloud/seafile-server/upgrade/
 ./upgrade_6.2_6.3.sh
 ```
 
-到这里为止更新完毕！！！重新启动seafile和seahub即可，如果一切正常后，可以重新执行第5步，将6.3更新到7.0.
+到这里为止更新完毕！！！重新启动seafile和seahub即可，如果一切正常后，可以重新执行第6步，将6.3更新到7.0.
 
 ```bash
 cd /home/MyCloud/seafile-server/upgrade/
