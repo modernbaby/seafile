@@ -55,12 +55,12 @@ chmod +x install_seafile.sh && ./install_seafile.sh
 1、把服务端下下来先, 不好意思，这里应该没有安装源，麻烦自己下载到服务器，放在之前一键安装的目录/home/MyCloud/下面
 
 ```bash
-wget http://seafile-downloads.oss-cn-shanghai.aliyuncs.com/seafile-server_7.0.5_x86-64.tar
+wget http://seafile-downloads.oss-cn-shanghai.aliyuncs.com/seafile-server_7.0.5_x86-64.tar.gz
 ```
 
 2、 解压缩
 ```bash
-tar -zxvf seafile-server_7.0.5_x86-64.tar
+tar -zxvf seafile-server_7.0.5_x86-64.tar.gz
 ```
 
 3、停止seafile服务和seahub
